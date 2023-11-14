@@ -4,7 +4,6 @@
 
    ![header](https://capsule-render.vercel.app/api?type=rect&text=Park_Seong_Geun&animation=fadeIn)
    </br></br>
-   <img src="https://img.shields.io/badge/Flutter-007396?style=flat-square&logo=Flutter&logoColor=white"/>
    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
