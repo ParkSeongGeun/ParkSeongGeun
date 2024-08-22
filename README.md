@@ -19,7 +19,7 @@
 	 	style="height : auto; margin-left : 10px; margin-right : 10px;"/>
  	</a>
   <a href="https://blog.naver.com/phd0801" align=center>
-		  <img src="http://img.shields.io/badge/Naver-#03C75A?style=flat&logo=Naver&link=https://blog.naver.com/phd0801/"
+		  <img src="http://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&link=https://blog.naver.com/phd0801/"
 	 	style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 	 </a>
 </p>
