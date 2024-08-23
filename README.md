@@ -5,7 +5,7 @@
   <h3> 🚀 &nbsp;I'm Studying</h3>
 <p align="left">
  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="SWIFT" height="30"/>
- <img src="https://img.shields.io/badge/UIkit-2396F3?style=for-the-badge&logo=c&logoColor=white" alt="UIKit" height="30"/>
+ <img src="https://img.shields.io/badge/UIkit-2396F3?style=for-the-badge&logo=UIkit&logoColor=white" alt="UIKit" height="30"/>
    <img src="https://img.shields.io/badge/UIkit-2396F3?style=for-the-badge&logo=c&logoColor=white" alt="UIKit" height="30"/>
  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GHTHUB" height="30"/>
 </p>
