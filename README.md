@@ -25,6 +25,8 @@
 
 <br>
 
+---
+
 <div align=left><h3>Problem Solving</h3>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSeongGeun&layout=compact"><br><br>
 
@@ -32,5 +34,7 @@
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=phd0801)](https://solved.ac/phd0801)
 
 <br>
+
+---
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
