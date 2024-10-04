@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seong-Geun🐥&fontSize=90" />
 
 
-  <h3> 🚀 &nbsp;I'm Studying</h3>
+  <h2> 🚀 &nbsp;I'm Studying</h2>
 <p align="left">
  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="SWIFT" height="30"/>
  <img src="https://img.shields.io/badge/UIkit-2396F3?style=for-the-badge&logo=UIkit&logoColor=white" alt="UIKit" height="30"/>
@@ -11,7 +11,7 @@
 
 <br>
 
-  <h3> 📗 &nbsp;My Social Logs </h3>
+  <h2> 📗 &nbsp;My Social Logs </h2>
 <p align="left">
  	<a href="https://foden2000.tistory.com/" align=center>
 		  <img src="http://img.shields.io/badge/-Tistory-yellow?style=flat&logo=Tistory&link=https://foden2000.tistory.com/"
@@ -25,16 +25,13 @@
 
 <br>
 
----
 
-<div align=left><h3>Problem Solving</h3>
+<div align=left><h2>Problem Solving</h2>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSeongGeun&layout=compact"><br><br>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=phd0801)](https://solved.ac/phd0801)
 
 <br>
-
----
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
