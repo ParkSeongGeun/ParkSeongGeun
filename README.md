@@ -20,9 +20,13 @@
 |2023.08. ~ 2023.12.|42Seoul|[42 Seoul](https://42seoul.kr/seoul42/main/view)
 <br>
 
+<div align=left><h2>📶 My Stats</h2>
+ 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkSeongGeun)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 
 <div align=left><h2>✅ Problem Solving</h2>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSeongGeun&layout=compact"><br><br>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=phd0801)](https://solved.ac/phd0801)
