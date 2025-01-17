@@ -31,6 +31,3 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=phd0801)](https://solved.ac/phd0801)
 
-<br>
-
-![](./profile-3d-contrib/profile-season-animate.svg)
