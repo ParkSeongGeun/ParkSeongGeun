@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seong-Geun🐥&fontSize=90" />
 
 
-<h2> 🚀 &nbsp;I'm Studying</h2>
+<h2> 🚀 &nbsp;Now I'm Studying</h2>
 <p align="left">
  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="SWIFT" height="30"/>
  <img src="https://img.shields.io/badge/UIkit-2396F3?style=for-the-badge&logo=UIkit&logoColor=white" alt="UIKit" height="30"/>
