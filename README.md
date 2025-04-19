@@ -21,6 +21,7 @@
 |2020.03. ~ ing|COMPUTER SCIENCE & ENGINEERING|[Konkuk Univ.]([http://imc.sejong.ac.kr/](https://cse.konkuk.ac.kr/cse/9948/subview.do))|
 |2023.10. ~ ing|GDG Konkuk Univ|[GDG On Campus Konkuk Univ.](https://github.com/gdsc-konkuk)|
 |2024.07. ~ 2024.12.|BoostCamp(iOS)|[BoostCamp-2024](https://github.com/boostcampwm-2024)|
+|2024.12. ~ 2025.02.|다이닝코드(iOS 인턴)|[다이닝코드](https://www.diningcode.com/)|
 |2023.08. ~ 2023.12.|42Seoul|[42 Seoul](https://42seoul.kr/seoul42/main/view)
 <br>
 
