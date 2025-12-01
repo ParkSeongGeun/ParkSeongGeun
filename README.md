@@ -27,7 +27,7 @@
 
 <div align=left><h2>📶 My Stats</h2>
  
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkSeongGeun)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats-topaz-omega-14.vercel.app/api?username=ParkSeongGeun)](https://github-readme-stats-topaz-omega-14.vercel)
 
 <br>
 
