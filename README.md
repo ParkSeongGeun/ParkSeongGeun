@@ -26,6 +26,14 @@
 |2023.08. ~ 2023.12.|42Seoul|[42 Seoul](https://42seoul.kr/seoul42/main/view)
 <br>
 
+## 🔎 Open Source
+- **[apple/containerization](https://github.com/apple/containerization/pull/473)**
+    - `Pull Request` #473: 가상 머신 내부 실행기(vmexec)에서 작업 디렉토리 기준의 상대 경로 명령어를 해석하고 실행할 수 있도록 수정
+- **[apple/container](https://github.com/apple/container/pull/987)**
+    - `Pull Request` #987: 엔트리포인트 상대 경로 지원을 위한 하부 엔진 의존성 업데이트 및 CLI 무결성 검증을 위한 단위 테스트 추가
+
+<br>
+
 <div align=left><h2>📶 My Stats</h2>
  
 [![My GitHub stats](https://github-readme-stats-topaz-omega-14.vercel.app/api?username=ParkSeongGeun)](https://github-readme-stats-topaz-omega-14.vercel)
