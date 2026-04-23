@@ -34,12 +34,6 @@
 
 <br>
 
-<div align=left><h2>📶 My Stats</h2>
- 
-[![My GitHub stats](https://github-readme-stats-topaz-omega-14.vercel.app/api?username=ParkSeongGeun)](https://github-readme-stats-topaz-omega-14.vercel)
-
-<br>
-
 <div align=left><h2>✅ Problem Solving</h2>
 
 [![Solved.ac
