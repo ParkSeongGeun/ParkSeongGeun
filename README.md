@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seong-Geun🐥&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Seong-Geun&fontSize=50" />
 
 
 <h2> 🚀 &nbsp;Now I'm Studying</h2>
