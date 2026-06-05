@@ -1,7 +1,3 @@
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Seong-Geun&fontSize=50" />
-
-
 <h2> 🚀 &nbsp;Now I'm Studying</h2>
 <h3> Mobile </h3>
 <p align="left">
