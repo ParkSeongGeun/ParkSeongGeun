@@ -8,7 +8,7 @@ Interested in mobile app development and infrastructure & devops.
   * **shinhan securities** (2026.04 - 2026.06): ICT Intern(Service Architect Team)
   * **DiningCode** (2024.12 - 2025.02): iOS Development Intern
 * **University**
-  * **Konkuk University** (2020.03 - Present): Computer Science and Engineering
+  * **Konkuk University** (2020.03 - 2026.08): Computer Science and Engineering
   * **GDG on Campus Konkuk** (2023.10 - Present): Core Member
 * **Other Experiences**
   * **SeSAC** (2025.12 - 2026.04): Cloud DevOps Engineer training course 
