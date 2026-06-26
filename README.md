@@ -4,6 +4,7 @@ Interested in mobile app development and infrastructure & devops.
 
 ### Career & Experiences
 * **Career**
+  * **shinhan securities** (2026.06 - ~ing): ICT Engineer
   * **shinhan securities** (2026.04 - 2026.06): ICT Intern(Service Architect Team)
   * **DiningCode** (2024.12 - 2025.02): iOS Development Intern
 * **University**
