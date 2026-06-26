@@ -3,13 +3,16 @@
 Interested in mobile app development and infrastructure & devops.
 
 ### Career & Experiences
-* **Konkuk University** (2020.03 - Present): Computer Science and Engineering
-* **GDG on Campus Konkuk** (2023.10 - Present): Core Member
-* **shinhan securities** (2026.04 - 2026.06): ICT Intern(Service Architect Team)
-* **SeSAC** (2025.12 - 2026.04): Cloud DevOps Engineer training course 
-* **DiningCode** (2024.12 - 2025.02): iOS Development Intern
-* **NAVER Boostcamp 2024** (2024.07 - 2024.12): Mobile Track Member
-* **42 Seoul** (2023.08 - 2023.12): Software Engineering Cadet
+* **Career**
+  * **shinhan securities** (2026.04 - 2026.06): ICT Intern(Service Architect Team)
+  * **DiningCode** (2024.12 - 2025.02): iOS Development Intern
+* **University**
+  * **Konkuk University** (2020.03 - Present): Computer Science and Engineering
+  * **GDG on Campus Konkuk** (2023.10 - Present): Core Member
+* **Other Experiences**
+  * **SeSAC** (2025.12 - 2026.04): Cloud DevOps Engineer training course 
+  * **NAVER Boostcamp 2024** (2024.07 - 2024.12): Mobile Track Member
+  * **42 Seoul** (2023.08 - 2023.12): Software Engineering Cadet
 
 ---
 
